@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Robert",
+      "author": "Schwartz"
+    },
+    {
+      "id": 2,
+      "title": "JeanPierre",
+      "author": "Debrouillard"
+    },
+    {
+      "title": "test",
+      "author": "test",
+      "id": "test"
+    }
+  ]
+}
